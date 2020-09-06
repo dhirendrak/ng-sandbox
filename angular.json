@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-sandbox"
+    }
+  },
+  "defaultProject": "ng-sandbox",
+  "cli": {
+    "analytics": false
+  }
 }
